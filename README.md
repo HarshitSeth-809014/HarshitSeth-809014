@@ -29,6 +29,3 @@
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/codingkibhasha/)
 [![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://bit.ly/33XPWSS)
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://www.twitter.com/codingkibhasha/)
-
-## Languages:
-[![JavaScript_HTML_CSS_Python_Java_NodeJS_MongoDB_Express_ReactJS_Arduino_Git_Vercel_Netlify_DigitalOcean](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_Java_NodeJS_MongoDB_Express_ReactJS_Arduino_Git_Vercel_Netlify_DigitalOcean)](https://pimp-my-readme.webapp.io)
