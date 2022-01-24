@@ -15,10 +15,12 @@
 
 - 💬 Ask me about **videos I upload on my channel**
 
-##Support Me:
+## Support Me:
 <p><a href="https://www.buymeacoffee.com/codingkibhasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p>
 <p><a href="https://www.patreon.com/codingkibhasha"> <img align="left" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" width="210" alt="rainboestrykr" /></a></p>
 
+## My Progress:
+<a href="https://app.daily.dev/HarshitSeth"><img src="https://github.com/HarshitSeth-809014/HarshitSeth-809014/blob/main/devcard.svg" width="400" alt="Harshit Seth's Dev Card"/></a><br />
 
-
-<a href="https://app.daily.dev/HarshitSeth"><img src="https://github.com/HarshitSeth-809014/HarshitSeth-809014/blob/main/devcard.svg" width="400" alt="Harshit Seth's Dev Card"/></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitSeth-809014&show_icons=true&locale=en" alt="harshit" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HarshitSeth-809014&show_icons=true&locale=en" alt="harshit" /></p>
