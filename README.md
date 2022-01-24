@@ -16,8 +16,9 @@
 - 💬 Ask me about **videos I upload on my channel**
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/codingkibhasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p><br>
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/codingkibhasha)
+<p><a href="https://www.buymeacoffee.com/codingkibhasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p>
+<p><a href="https://www.patreon.com/codingkibhasha"> <img align="left" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" width="210" alt="rainboestrykr" /></a></p>
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/codingkibhasha)]
 
 
 
