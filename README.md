@@ -26,4 +26,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=HarshitSeth-809014&show_icons=true&locale=en&bg_color=45,D96E30,F2AC29&title_color=000000&text_color=36373D&icon_color=FFFFFF" alt="harshit" /></p>
 
 ## Socials:
-[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/codingkibhasha/)
+[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/codingkibhasha/)
+[![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://www.youtube.com/channel/UC7gDvuJreNWwpwChOaDDFZw)
+[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://www.twitter.com/codingkibhasha/)
