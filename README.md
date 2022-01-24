@@ -1,7 +1,6 @@
 [![Hey, I am Harshit, I have a YouTube channel about Programming.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20have%20a%20YouTube%20channel%20about%20Programming.&title=Hey%2C%20I%20am%20Harshit)](https://bit.ly/33XPWSS)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshitSeth-809014&label=Profile%20Views&color=orange&style=plastic" alt="rainboestrykr" /> </p>
-
+[![Visitor Counter for HarshitSeth-809014](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=HarshitSeth-809014)}](https://pimp-my-readme.webapp.io)
 
 - 📫 How to reach me is **[Instagram](https://bit.ly/3FYEtj8)**
 
