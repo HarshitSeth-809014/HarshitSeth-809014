@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I also play Basketball**
 
-- 👨‍💻 All of my socials are available [here](https://ayo.so/abhiraj)
+- 👨‍💻 All of my socials are available [here](https://github.com/HarshitSeth-809014#socials)
 
 - 💬 Ask me about **videos I upload on my channel**
 
