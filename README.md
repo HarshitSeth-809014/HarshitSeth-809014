@@ -1,4 +1,4 @@
-[![Hey, I am Harshit, I have a YouTube channel about Programmig.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20have%20a%20YouTube%20channel%20about%20Programmig.&title=Hey%2C%20I%20am%20Harshit)](https://bit.ly/33XPWSS)
+[![Hey, I am Harshit, I have a YouTube channel about Programming.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20have%20a%20YouTube%20channel%20about%20Programming.&title=Hey%2C%20I%20am%20Harshit)](https://bit.ly/33XPWSS)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshitSeth-809014&label=Profile%20Views&color=orange&style=plastic" alt="rainboestrykr" /> </p>
 
@@ -23,4 +23,4 @@
 <a href="https://app.daily.dev/HarshitSeth"><img src="https://github.com/HarshitSeth-809014/HarshitSeth-809014/blob/main/devcard.svg" width="400" alt="Harshit Seth's Dev Card"/></a><br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitSeth-809014&show_icons=true&locale=en" alt="harshit" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=HarshitSeth-809014&show_icons=true&locale=en&theme=radical&bg_color=45,D96E30,F2AC29" alt="harshit" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HarshitSeth-809014&show_icons=true&locale=en&bg_color=45,D96E30,F2AC29" alt="harshit" /></p>
