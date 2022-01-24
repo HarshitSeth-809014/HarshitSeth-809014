@@ -18,7 +18,7 @@
 ## Support Me:
 <p><a href="https://www.buymeacoffee.com/codingkibhasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainboestrykr" /></a></p>
 <p><a href="https://www.patreon.com/codingkibhasha"> <img align="left" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" width="210" alt="rainboestrykr" /></a></p>
-<br/>
+<br/><br/><br/>
 
 ## My Progress:
 <a href="https://app.daily.dev/HarshitSeth"><img src="https://github.com/HarshitSeth-809014/HarshitSeth-809014/blob/main/devcard.svg" width="400" alt="Harshit Seth's Dev Card"/></a><br />
