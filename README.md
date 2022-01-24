@@ -27,5 +27,5 @@
 
 ## Socials:
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/codingkibhasha/)
-[![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://www.youtube.com/channel/UC7gDvuJreNWwpwChOaDDFZw)
+[![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://bit.ly/33XPWSS)
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://www.twitter.com/codingkibhasha/)
