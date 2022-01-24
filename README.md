@@ -23,4 +23,4 @@
 <a href="https://app.daily.dev/HarshitSeth"><img src="https://github.com/HarshitSeth-809014/HarshitSeth-809014/blob/main/devcard.svg" width="400" alt="Harshit Seth's Dev Card"/></a><br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitSeth-809014&show_icons=true&locale=en" alt="harshit" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=HarshitSeth-809014&show_icons=true&locale=en&bg_color=45,D96E30,F2AC29&title_color=192A40" alt="harshit" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HarshitSeth-809014&show_icons=true&locale=en&bg_color=45,D96E30,F2AC29&title_color=192A40&text_color=36373D" alt="harshit" /></p>
