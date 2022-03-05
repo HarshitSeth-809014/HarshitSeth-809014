@@ -2,7 +2,6 @@
 
 [![Visitor Counter for HarshitSeth-809014](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=HarshitSeth-809014)](https://pimp-my-readme.webapp.io)
 
-<h1 align="center">Hi 👋, I'm Harshit Seth</h1>
 <h3 align="center">I am a Indie Developer. Programming is my hobby. If I am tired, I do Programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitseth-809014&label=Profile%20views&color=0e75b6&style=flat" alt="harshitseth-809014" /> </p>
