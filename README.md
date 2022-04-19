@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Visualway](https://github.com/Visualway)
 
-- 🌱 I’m currently learning **Android Development in Kotlin**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshitSeth-809014?tab=repositories](https://github.com/HarshitSeth-809014?tab=repositories)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://bit.ly/3FYEtj8**
 
-- ⚡ Fun fact **I also play Badminton and Basketball**
+- ⚡ Fun fact **I also play Badminton and Hockey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
