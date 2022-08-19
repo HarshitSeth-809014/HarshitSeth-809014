@@ -36,6 +36,3 @@
 <p><a href="https://www.buymeacoffee.com/codingkibhasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Coding Ki Bhasha" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitseth-809014&show_icons=true&locale=en&layout=compact" alt="harshitseth-809014" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitseth-809014&show_icons=true&locale=en" alt="harshitseth-809014" /></p>
-<a href="https://app.daily.dev/HarshitSeth"><img src="https://github.com/HarshitSeth-809014/HarshitSeth-809014/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
